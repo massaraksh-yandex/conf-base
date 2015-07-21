@@ -1,0 +1,17 @@
+[color]
+	ui = true
+[user]
+	email = massaraksh@yandex-team.ru
+	name = massaraksh
+[push]
+	default = simple
+[alias]
+	st = status
+	b = branch
+	s = show
+	d = diff
+	a = add
+	dc = diff --cached
+	l = log
+	new = !sh -c 'git log $1@{1}..$1@{0} "$@"'
+	ch = checkout
