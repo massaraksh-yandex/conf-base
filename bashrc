@@ -1,2 +1,2 @@
-. bash_aliases
-. bash_exports
+. ~/.bash_aliases
+. ~/.bash_exports
